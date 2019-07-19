@@ -1,2 +1,2 @@
 # adham299
-my first repository
+adham299 is a repository for how to use github
